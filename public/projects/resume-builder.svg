@@ -1,0 +1,21 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#EFF6FF"/>
+  <rect x="72" y="72" width="1056" height="656" rx="24" fill="white"/>
+  <rect x="120" y="128" width="240" height="32" rx="10" fill="#2563EB"/>
+  <rect x="120" y="184" width="420" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="120" y="222" width="360" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="120" y="284" width="180" height="20" rx="10" fill="#1D4ED8"/>
+  <rect x="120" y="326" width="430" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="120" y="354" width="390" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="120" y="382" width="340" height="14" rx="7" fill="#CBD5E1"/>
+  <rect x="640" y="156" width="392" height="472" rx="20" fill="#F8FAFC"/>
+  <rect x="676" y="196" width="220" height="18" rx="9" fill="#2563EB"/>
+  <rect x="676" y="240" width="180" height="110" rx="18" fill="#DBEAFE"/>
+  <rect x="874" y="240" width="122" height="110" rx="18" fill="#BFDBFE"/>
+  <rect x="676" y="382" width="300" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="676" y="414" width="264" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="676" y="446" width="214" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="676" y="504" width="212" height="56" rx="18" fill="#2563EB"/>
+  <text x="120" y="560" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">AI Resume Builder</text>
+  <text x="120" y="612" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="28">ATS scoring, AI writing help, and export-ready templates.</text>
+</svg>
