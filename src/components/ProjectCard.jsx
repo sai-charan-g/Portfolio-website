@@ -1,9 +1,23 @@
+import Image from "next/image";
+
 export default function ProjectCard({ project }) {
   const hasLiveLink = Boolean(project.live);
   const hasGithubLink = Boolean(project.github);
 
   return (
     <article className="project-card">
+      {project.image ? (
+        <div className="project-thumbnail">
+          <Image
+            src={project.image}
+            alt={`${project.title} preview`}
+            width={1200}
+            height={800}
+            className="project-thumbnail-image"
+          />
+        </div>
+      ) : null}
+
       <div className="project-content">
         <div className="project-header">
           <h3>{project.title}</h3>

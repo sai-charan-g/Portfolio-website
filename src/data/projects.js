@@ -11,7 +11,7 @@ export const projects = [
     ],
     live: "https://resume-builder-with-ai-assistance.vercel.app/",
     github: "https://github.com/sai-charan-g/Resume-builder-with-ai-assistance",
-    image: "/projects/resume-builder.svg",
+    image: "/projects/reume-builder.png",
   },
   {
     title: "Task Management App",
@@ -25,7 +25,7 @@ export const projects = [
     ],
     live: "https://react-task-management-system-gamma.vercel.app/",
     github: "https://github.com/sai-charan-g/React-Task-Management-System",
-    image: "/projects/task-manager.svg",
+    image: "/projects/task-management.png",
   },
   {
     title: "Breast Cancer Classification from Ultrasound Images Using ResNet50",
@@ -38,7 +38,7 @@ export const projects = [
       "Explored classification performance for a healthcare-focused computer vision use case.",
     ],
     github: "https://github.com/sai-charan-g/Breast-Cancer-Classification-from-Ultrasound-Images-Using-ResNet50-",
-    image: "/projects/task-manager.svg",
+    
   },
   {
     title: "MediLink",
@@ -52,7 +52,7 @@ export const projects = [
     ],
     live: "",
     github: "https://github.com/sai-charan-g/Software-EngineeringOnline-Appointment-Booking-App-Medilink--Project",
-    image: "/projects/task-manager.svg",
+    image: "/projects/medilink.png",
   },
   {
     title: "Deep Learning for Medical Image Processing",
@@ -65,6 +65,6 @@ export const projects = [
       "Focused on practical dataset handling, training iteration, and result interpretation.",
     ],
     github: "https://github.com/sai-charan-g/deep-learning-for-medical-image-processing",
-    image: "/projects/task-manager.svg",
+   
   },
 ];

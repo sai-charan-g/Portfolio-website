@@ -321,6 +321,18 @@ main {
   overflow: hidden;
 }
 
+.project-thumbnail {
+  padding: 16px 16px 0;
+}
+
+.project-thumbnail-image {
+  width: 100%;
+  height: auto;
+  border-radius: calc(var(--radius-md) - 6px);
+  border: 1px solid rgba(219, 228, 240, 0.9);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(240, 246, 255, 0.95) 100%);
+}
+
 .project-content {
   display: flex;
   flex-direction: column;

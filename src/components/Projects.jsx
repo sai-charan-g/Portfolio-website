@@ -16,8 +16,7 @@ export default function Projects() {
             <p className="eyebrow">Projects</p>
             <h2>Selected work that shows how I build.</h2>
             <p className="section-copy">
-              A mix of full-stack products and AI/ML experiments, with the first two featured up
-              front and more available on demand.
+              A mix of full-stack products and AI/ML experiments
             </p>
           </div>
         </div>
